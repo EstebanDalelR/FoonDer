@@ -1,0 +1,7 @@
+App environment
+Up > buy now
+left/right > I like it, I don't
+Down > Options: Numbero of ppl, food/dessert, Go-to/Takeout/Home, budget
+Takes into consideration what the user has liked before
+Saves "favorites"
+Pops ads
