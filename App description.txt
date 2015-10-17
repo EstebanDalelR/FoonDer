@@ -1,7 +1,20 @@
 App environment
 Up > buy now
-left/right > I like it, I don't
-Down > Options: Numbero of ppl, food/dessert, Go-to/Takeout/Home, budget
+left / right > I like it/ I don't
+Down > Options: Number of ppl, food/dessert, Go-to/Takeout/Home, budget
 Takes into consideration what the user has liked before
 Saves "favorites"
 Pops ads
+charge users $0
+charge restaurants for each transaction
+big data:
+age groups, location, type of food
+healthy ppl don´t usually order supersize crap
+points for restaurant: neg means [...] pos means [...] zero means [...]
+no, wait, bigger data... 3d matrix?
+height us greasyness maybe
+depth size
+width time it takes
+login with fb or g+
+rewards
+take into account the usual order time for everybody, send weekly mail at that time
