@@ -18,3 +18,10 @@ width time it takes
 login with fb or g+
 rewards
 take into account the usual order time for everybody, send weekly mail at that time
+app?
+iOS, android
+WP? BB?
+android JB -> Android Studio
+iOS 8-> Objective C in Visual Studio
+publicity? 
+Hungry? get together Foornder (R)
