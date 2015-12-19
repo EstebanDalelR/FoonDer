@@ -15,12 +15,12 @@ no, wait, bigger data... 3d matrix?
 height us greasyness maybe
 depth size
 width time it takes
-login with fb or g+
+login with fb or g+, maybe TW
 rewards
 take into account the usual order time for everybody, send weekly mail at that time
 app?
 iOS, android
-WP? BB?
+WP? BB?->later
 android JB -> Android Studio
 iOS 8-> Objective C in Visual Studio
 publicity? 
